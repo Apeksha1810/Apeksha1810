@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **18apeksha.m@gmail.com**
 
--⚡ Fun fact "Sketches come alive with my pencil!" 🎨✨
+- ⚡ Fun fact "Sketches come alive with my pencil!" 🎨✨
 
 
 <h3 align="left">Connect with me:</h3>
