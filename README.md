@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+ 🔭 I’m currently working on ...
+ 🌱 I’m currently learning AI-ML.
+ 💬 Ask me about UI development , web development etc
+ 📫 How to reach me 18apeksha@gmail.com
+ ⚡ Fun fact "Sketches come alive with my pencil!" 🎨✨
 <!--
 **Apeksha1810/Apeksha1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
