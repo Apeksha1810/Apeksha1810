@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **AI project**
+- 🔭 I’m currently working on **AI/Ml Based Counseling App**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently Exploring *New technologies*
 
 - 📫 How to reach me **18apeksha.m@gmail.com**
 
