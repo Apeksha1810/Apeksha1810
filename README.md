@@ -3,10 +3,6 @@
 
 
 
-- 🔭 I’m currently working on **AI/Ml Based Counseling App**
-
-- 🌱 I’m currently Exploring *New technologies*
-
 - 📫 How to reach me **18apeksha.m@gmail.com**
 
 - ⚡ Fun fact "Sketches come alive with my pencil!" 🎨✨
